@@ -130,7 +130,6 @@ Real-time webcam-based attendance system using face detection and encoding.
 - 📜 CSS &amp; SQL Certifications — HackerRank
 - 📜 ReactJS Course — Infosys
 - 📜 Machine Learning, Prompt Engineering &amp; Fundamentals of AI — Certified
-- 📜 Deloitte Australia Data Analytics Virtual Experience — Forage (Excel + Tableau)
 
 <br/>
 
