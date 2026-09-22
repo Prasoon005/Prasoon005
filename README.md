@@ -52,17 +52,17 @@ I'm a Computer Science undergraduate at **Galgotias College of Engineering and T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prasoon005&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7&amp;icon_color=8E2DE2&amp;text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasoon005&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=A855F7&amp;fire=8E2DE2&amp;currStreakLabel=A855F7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prasoon005&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7&amp;icon_color=8E2DE2&amp;text_color=c9d1d9&amp;cache_bust=v2" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Prasoon005&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=A855F7&amp;fire=8E2DE2&amp;currStreakLabel=A855F7&amp;cache_bust=v2" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoon005&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7&amp;text_color=c9d1d9" width="48%"/>
-<img src="https://leetcard.jacoblin.cool/oELnIigPa0?theme=dark&amp;font=baloo2&amp;ext=heatmap&amp;border=1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoon005&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;cache_bust=v2" width="38%"/>
+<img src="https://leetcard.jacoblin.cool/oELnIigPa0?theme=dark&amp;font=baloo2&amp;border=1&amp;cache_bust=v2" width="58%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prasoon005&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prasoon005&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8&amp;cache_bust=v2"/>
 
 </div>
 
@@ -71,31 +71,6 @@ I'm a Computer Science undergraduate at **Galgotias College of Engineering and T
 ## Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗂️ [Job Application Tracker](https://github.com/Prasoon005/Job-Application-Tracker)
-Full-stack job tracking system with secure JWT authentication and user-specific dashboards.
-- 5-stage workflow (Wishlist → Applied → Interview → Offer → Rejected)
-- Resume upload &amp; versioning per application
-- Analytics dashboards with dynamic charts
-- Role-based data isolation &amp; RESTful APIs
-
-`Node.js` `Express.js` `MongoDB` `JavaScript` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### 📸 [Facial Recognition Attendance System](https://github.com/Prasoon005/Facial_Recognition_Attendance_System)
-Real-time webcam-based attendance system using face detection and encoding.
-- 20+ facial profiles registered and recognized accurately
-- Duplicate-entry prevention &amp; daily usage limits
-- Secure attendance logs stored in Supabase
-
-`Python` `OpenCV` `Face Recognition` `Supabase`
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -110,12 +85,37 @@ AI-powered healthcare platform delivering personalized health assessments and we
 </td>
 <td width="50%" valign="top">
 
+### 🗂️ [Job Application Tracker](https://github.com/Prasoon005/Job-Application-Tracker)
+Full-stack job tracking system with secure JWT authentication and user-specific dashboards.
+- 5-stage workflow (Wishlist → Applied → Interview → Offer → Rejected)
+- Resume upload &amp; versioning per application
+- Analytics dashboards with dynamic charts
+- Role-based data isolation &amp; RESTful APIs
+
+`Node.js` `Express.js` `MongoDB` `JavaScript` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎓 [EduSphere AI](https://github.com/Prasoon005/Edusphere_AI)
 Full-stack Student Management System with role-based dashboards.
 - Separate views for Admin, Teachers, and Students
 - Built with a modern, type-safe stack
 
 `React` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 [Facial Recognition Attendance System](https://github.com/Prasoon005/Facial_Recognition_Attendance_System)
+Real-time webcam-based attendance system using face detection and encoding.
+- 20+ facial profiles registered and recognized accurately
+- Duplicate-entry prevention &amp; daily usage limits
+- Secure attendance logs stored in Supabase
+
+`Python` `OpenCV` `Face Recognition` `Supabase`
 
 </td>
 </tr>
